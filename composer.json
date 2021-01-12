@@ -1,0 +1,17 @@
+{
+    "name": "ajbassett539/simple-database",
+    "description": "Simple mysqli database wrapper to retrieve stdClass objects.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alexandra",
+            "email": "ajbassett539@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Database\\": "src/"
+        }
+    },
+    "require": {}
+}
